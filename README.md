@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit1429&label=Profile%20views&color=0e75b6&style=flat" alt="harshit1429" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit1429" alt="harshit1429" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/harshit48274523" target="blank"><img src="https://img.shields.io/twitter/follow/harshit48274523?logo=twitter&style=for-the-badge" alt="harshit48274523" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter & APIs.**
